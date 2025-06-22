@@ -1,0 +1,1 @@
+/usr/bin/c++ -Wl,--dependency-file=CMakeFiles/ProjectName.dir/link.d CMakeFiles/ProjectName.dir/src/main.cpp.o -o ProjectName  libimgui.a libglad.a /usr/lib/libglfw.so.3.4 /usr/lib/libGL.so
